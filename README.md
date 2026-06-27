@@ -1,4 +1,4 @@
 # new-portfolio-app
-personal portfolio
-tech stack: react, next.js, tailwind css, typescript
+personal portfolio<br>
+tech stack: react, next.js, tailwind css, typescript<br>
 design process: sketch -> figma -> vs code
